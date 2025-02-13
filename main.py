@@ -4,7 +4,7 @@ def one():
 
 def hello():
     one()
-    print("hello world")
+    print("HI")
     two()
 
 def two():
