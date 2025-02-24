@@ -1,6 +1,6 @@
-
 def one():
     print("hello")
+
 
 def hello():
     one()
